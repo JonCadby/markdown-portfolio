@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![OCP](https://avatars.githubusercontent.com/u/105788206?s=400&u=1d19c146e101e8b42babfcc1914299a8d0598b3f&v=4)
