@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Further Details
+Below are some **additional details** regarding *my* favourite things
+
+## Cheeses
+* Epoisse
+* Stilton
+* Comte
+
+## Board Games
+* Agricola
+* Hansa Teutonica
+* King of Tokyo
